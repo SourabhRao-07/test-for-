@@ -1,0 +1,11 @@
+{
+    "version": "1.0.6",
+    "release_date": "26-12-2024",
+    "changes": [
+        {
+            "type": "Feature",
+            "description": "Add Jwt Token"
+        }
+    ],
+    "notes": "Ensure make a pull and create a new build."
+}
